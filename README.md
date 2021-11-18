@@ -1,5 +1,7 @@
 # The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 
+THIS IS FOR ADVANCE LEVEL CODERS.
+
 [![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
